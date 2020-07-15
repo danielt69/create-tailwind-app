@@ -1,0 +1,29 @@
+
+@screen sm {
+  h1 {
+    @apply text-xl;
+    a {
+      color: red;
+    }
+  }
+}
+@screen md {
+  h1 {
+    @apply text-2xl;
+  }
+}
+@screen lg {
+  h1 {
+    @apply text-3xl;
+  }
+}
+@screen xl {
+  h1 {
+    @apply text-4xl;
+  }
+}
+@screen xxl {
+  h1 {
+    @apply text-5xl;
+  }
+}
