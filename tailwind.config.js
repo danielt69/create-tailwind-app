@@ -814,5 +814,7 @@ module.exports = {
   corePlugins: {},
   plugins: [
     require('tailwindcss-animations'),
+    require('@tailwindcss/typography'),
+    require('tailwindcss-textshadow'),
   ],
 }
