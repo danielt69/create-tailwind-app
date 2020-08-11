@@ -816,5 +816,6 @@ module.exports = {
     require('tailwindcss-animations'),
     require('@tailwindcss/typography'),
     require('tailwindcss-textshadow'),
+    require("tailwindcss-debug-screens"),
   ],
 }
