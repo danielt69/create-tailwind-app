@@ -817,5 +817,6 @@ module.exports = {
     require('@tailwindcss/typography'),
     require('tailwindcss-textshadow'),
     require("tailwindcss-debug-screens"),
+    require('@tailwindcss/custom-forms'),
   ],
 }
